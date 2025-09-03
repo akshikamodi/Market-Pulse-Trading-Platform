@@ -73,7 +73,7 @@ Market-Pulse-Trading-Platform/ ├─ index.html ├─ dashboard.html ├─ au
 
 Getting Started
 1) Clone
-git clone https://github.com/Shashwat189/Market-Pulse-Trading-Platform.git
+git clone https://github.com/akshikamodi/Market-Pulse-Trading-Platform.git
 cd Market-Pulse-Trading-Platform
                                        
 2) Create config
