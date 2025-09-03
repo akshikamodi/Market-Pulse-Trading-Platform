@@ -113,5 +113,5 @@ CoinGecko / Alpha Vantage / Twelve Data / ExchangeRate.host for price data
 
 Icons & UI inspiration from open web design systems
 
-Author: Shashwat Kaul
-Email- shashwatkaul092005@gmail.com
+Author: Akshika Modi
+Email- akshikamodi9@gmail.com
